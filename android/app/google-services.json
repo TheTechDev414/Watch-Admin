@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "167646152264",
+    "firebase_url": "https://rchjobportal-default-rtdb.firebaseio.com",
+    "project_id": "rchjobportal",
+    "storage_bucket": "rchjobportal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167646152264:android:641d95ee9320dedf92ba7d",
+        "android_client_info": {
+          "package_name": "com.hsh.rchjobportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167646152264-jk9be4m9grt81hsitugi46kagfsbugim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP7fT2hLB4ZNfgAGYki2roJd0knM1fHkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167646152264-jk9be4m9grt81hsitugi46kagfsbugim.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167646152264-g4f8m7ecs6p0t13ed72mrq1oo98jr774.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hsh.rchjobportal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167646152264:android:047acdc938d07f8b92ba7d",
+        "android_client_info": {
+          "package_name": "com.rch.rchadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167646152264-jk9be4m9grt81hsitugi46kagfsbugim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP7fT2hLB4ZNfgAGYki2roJd0knM1fHkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167646152264-jk9be4m9grt81hsitugi46kagfsbugim.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167646152264-g4f8m7ecs6p0t13ed72mrq1oo98jr774.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hsh.rchjobportal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
